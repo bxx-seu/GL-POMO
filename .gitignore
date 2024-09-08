@@ -1,7 +1,6 @@
 ### Python template
 .idea/
-TSP/data
-TSP/pretrained_model
+TSP/data/test
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
