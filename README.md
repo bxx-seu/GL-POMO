@@ -17,7 +17,7 @@ matplotlib=3.9.0
 ## Datasets
 The training and test datasets can be downloaded from Google Drive:
 ```
-https://drive.google.com/file/d/1R9sRGvLOZw0H5C36UVdbftNmSvAbeNDx/view?usp=sharing
+https://drive.google.com/drive/folders/1fpu4puWOHVB5rsa5uihhu1tM95YTm7U3?usp=sharing
 ```
 - Download the datasets and put them to the path **./GL-POMO/TSP/data**
 ## Evaluation 
