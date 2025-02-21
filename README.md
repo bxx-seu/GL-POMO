@@ -1,8 +1,8 @@
 # GL-POMO
-For "Embedding Local Policy in Transformer to Enhance the Generalization of Neural Methods for Travelling Salesman Problem"
-<!-- 
-For "Local Topological Information is Crucial to Enhance the Generalization of Neural Methods for Travelling Salesman Problem"
---> 
+For "Local Topological Information as a Powerful Enhancer for Generalizable Neural Method in Travelling Salesman Problem"
+
+Accepted by AAMAS2025.
+
 ## Dependencies
 GPU: NVIDIA RTX 3090
 ```bash

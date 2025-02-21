@@ -1,6 +1,8 @@
 ### Python template
 .idea/
-TSP/data/test
+TSP/data/*
+TSP/result/*
+TSP/*.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
